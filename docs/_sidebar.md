@@ -73,5 +73,3 @@
   - [MarketplaceDriver](interfaces/MarketplaceDriver.md)
   - [TicketMetadataBuilder](interfaces/TicketMetadataBuilder.md)
   - [UserDriver](interfaces/UserDriver.md)
-
-- [Modules](modules.md)
