@@ -6,7 +6,7 @@
 
 ### Examples
 Inside the following folder you can find some examples on how to use the library:
-- [QrCodeExamples](examples/qrCodeExamples.ts)
+- [QrCodeExamples](https://github.com/GremG/blockchain_event_management/blob/main/docs/examples/qrCodeExamples.ts)
 
 
 ### Enumerations
